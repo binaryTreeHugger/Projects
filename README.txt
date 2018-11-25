@@ -1,1 +1,1 @@
-This is just a text file to show how to upload remotely.
+Another simple text message to demonstrate the file uploading process.
