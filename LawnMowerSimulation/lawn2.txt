@@ -1,0 +1,17 @@
+10
+10
+10
+3
+100
+3,3,southwest
+0,2,southeast
+0,0,southeast
+7,2,southeast
+2,4,southeast
+4,6,southeast
+1,2,southeast
+0,3,southeast
+7,5,southeast
+3,2,southeast
+0
+530
